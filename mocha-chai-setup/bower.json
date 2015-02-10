@@ -1,0 +1,23 @@
+{
+  "name": "mocha-chai-setup",
+  "version": "0.0.0",
+  "authors": [
+    "Charles Lueker <charleslueker@yahoo.com>"
+  ],
+  "license": "MIT",
+  "homepage": "'https://github.com/Luekerc.github.io',",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "mocha": "~2.1.0",
+    "chai": "~1.10.0"
+  },
+  "dependencies": {
+    "underscore": "~1.7.0"
+  }
+}
